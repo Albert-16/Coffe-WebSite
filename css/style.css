@@ -47,6 +47,7 @@ body{
     margin:0 1rem;
     font-size: 1.6rem;
     color: #fff;
+    text-decoration: none;
 }
 
 .header .navbar a:hover{
